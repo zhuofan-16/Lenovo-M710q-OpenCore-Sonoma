@@ -1,6 +1,8 @@
-# Hackintosh EFI for Lenovo m710q
+# Hackintosh EFI for Lenovo m710Q
 
-This repository contains the EFI folder necessary for running macOS Sonoma on the Lenovo m710q as a Hackintosh. 
+This repository contains the EFI folder necessary for running macOS Sonoma on the Lenovo m710Q as a Hackintosh. 
+##### NOTE:PLEASE REMEMBER TO CHANGE THE SMBIOS
+
 ## 🚀 Latest Update
 
 ### What's New 16/5/2024
